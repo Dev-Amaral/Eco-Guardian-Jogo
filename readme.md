@@ -1,9 +1,9 @@
 ![tela inicial](tela%20inicial.jpeg)
 
 Para jogar nosso jogo:
-1. Instale o arquivo `Prototipo.c3p`
+1. Instale o arquivo `Prototipo.c3p`, com o `git clone` no seu terminal por exemplo.
 
-2. Abra o site do [editor do Construct 3(Clique aqui)](https://editor.construct.net/?startTour)
+2. Abra o site do [editor do Construct 3(Clique aqui)](https://editor.construct.net/?startTour).
 
 3. Clique na aba `Abrir` e depois em `Arquivo`, após isso faça o upload do arquivo`.c3p` e inicie o jogo.
 
